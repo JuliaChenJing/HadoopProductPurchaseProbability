@@ -42,15 +42,14 @@ Output: Part file containing “Stripes” of product Id and the frequencies of 
 
 ## Getting Started
 
-Change directory to project source directory and run these bash commands:<br />
+Change current directory to project source directory and run these bash commands:<br />
 ./build.sh<br />
 ./run.sh
 
 ### Prerequisites
 
 - Install platform for Cloudera. This may be VMWare, Docker or VirtualBox.<br />
-- Install Cloudera CDH 5.8 into the platform. <br />
-- This can be downloaded from : https://www.cloudera.com/downloads/quickstart_vms/5-8.html
+- Install Cloudera CDH 5.8 into the platform (Download Link : https://www.cloudera.com/downloads/quickstart_vms/5-8.html )
   
 ## Author
 
