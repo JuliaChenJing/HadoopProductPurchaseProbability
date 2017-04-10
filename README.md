@@ -1,7 +1,6 @@
 # Project Title
 
-Probability of subsequent product's purchase after purchase of a product
-
+Anticipatory customer order prediction after purchasal of item(s).
 ## Project Description
 
 ### Input:
